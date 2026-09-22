@@ -1,8 +1,8 @@
 # Hey, I'm Neshan 💫
-🎓 Studying Bachelor of Computer and Information Sciences at AUT (Auckland University of Technology) — majoring in Computer Science, minoring in AI and Cybersecurity (2025 – 2028)<br><br>🤖 Deep into AI-integrated web development, software development, and algorithmic trading research<br><br>🌱 Always open to learning new things<br>
+🎓 Studying Bachelor of Computer and Information Sciences at AUT (Auckland University of Technology) — majoring in Computer Science, minoring in AI and Cybersecurity (2025 – 2028)<br><br>💻 Deep into Web development, software development, and algorithmic trading research<br><br>🌱 Always open to learning new things<br>
 
 # 🚀 Projects I'm working on
-🎓 Studbuddy.ai — An AI-powered study companion that turns lectures, PDFs, and videos into notes, flashcards, quizzes, and audio summaries. Built with Next.js, TypeScript, Tailwind/shadcn, and Neon Postgres, with SM-2 spaced repetition and source-grounded anti-hallucination checks.<br><br>
+🎓 Studbuddy.ai — An AI-powered study companion that turns lectures, PDFs, and videos into notes, flashcards, quizzes, and audio summaries. With SM-2 spaced repetition and source-grounded anti-hallucination checks.<br><br>
 📈 Algorithmic Trading Bot — Automated trading system on the Alpaca paper trading API, combining a deterministic technical signal layer (EMA/RSI/volume) with an LLM advisory layer and a Streamlit dashboard.<br>
 
 # 💻 Tech Stack:
